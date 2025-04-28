@@ -29,7 +29,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/> </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v18af98722840dca56faefae94257d94871f07ae68e6f6225c2963b4f21ad2128/firebase/images/lockup.svg" alt="flutter" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">My Stats:</h3>
