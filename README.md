@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirav</h1>
-<h3 align="center">I am a versatile software developer with a diverse skill set, specializing in Android development, web development, and mobile cross-platform frameworks. With over a year of experience in Android SDK and Android Studio, I have built several applications and have worked with technologies like BLE, NFC, IoT, and Firebase.</h3>
+<h3 align="center">Android Developer with 2.5+ years of experience building scalable mobile applications using Kotlin, Java, and modern Android development practices. Experienced in Android SDK, Jetpack components, Clean Architecture, and MVVM/MVI patterns, with a strong focus on performance and maintainable code.
+
+Hands-on experience with BLE, IoT, NFC, and real-time data processing, along with integration of Firebase services and third-party SDKs. Also experienced in on-device AI/ML integration using TensorFlow Lite and MediaPipe, with an interest in Edge AI and intelligent mobile applications.</h3>
 
 - 💬 Ask me about **Android, Kotlin, Java, Firebase, IoT, BLE, NFC, React Native, Flutter, Web Development**
 
